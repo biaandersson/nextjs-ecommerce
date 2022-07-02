@@ -32,7 +32,17 @@ the ability to add and edit products on the go using a Sanity backend CMS, all
 advanced cart, and checkout functionalities, and most importantly, the complete
 integration with Stripe Payment API to cover real payments.
 
+### Landing page
+
 ![img.png](img.png)
+
+### Product Page
+
+![img_2.png](img_2.png)
+
+### Cart Page
+
+![img_3.png](img_3.png)
 
 ## Deploy on Vercel
 
